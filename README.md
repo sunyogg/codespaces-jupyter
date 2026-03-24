@@ -1,7 +1,60 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# My Python Cookbook <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" />
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+## [Python](/notebooks/everythingPython.ipynb)
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+### Data Types
+* [String](datatypes.ipynb)
+* [Integers](datatypes.ipynb)
+* [Floats](datatypes.ipynb)
+* [Complex Numberes](datatypes.ipynb)
+
+### [Operators](operatorTutorial.ipynb)
+
+### Built-in Data Structures
+* [Lists](ListsTutorial.ipynb)
+* [Set](setTutorial.ipynb)
+* [Tuples](tupleTutorial.ipynb)
+* [Dictionary](dictionaryTutorial.ipynb)
+
+### Control Statements
+* [IF-ELIF-ELSE](controlstatement.ipynb)
+* [match statement](controlstatement.ipynb)
+
+### Loops
+* [for loops](forloop.ipynb)
+* [while loops](whileloop.ipynb)
+
+### [Functions](functions.ipynb)
+
+### Datetime module
+
+### Object Oriented Programming
+* [OOPS basics](oops.ipynb)
+* [Inheritance and Polymorphism](inheritance.ipynb)
+
+
+
+
+## Intermediate Python
+* Lambda function
+* Filter function
+* map(function, iterable)
+* Generators
+* Decorators
+* Function Annotations (type hinting)
+
+## Numpy
+* [Numpy Basics](numpy.ipynb)
+* [Numpy Axes and Operations](complexnumpy.ipynb)
+* [numpy ufunc](ufunc.ipynb)
+
+## [Matplotlib](matplotlib.ipynb)
+
+## [Pandas](pandas.ipynb)
+
+## [CSV Handling](csv_handling.ipynb)
+
+## File Handling
+
+## Exception Handling
