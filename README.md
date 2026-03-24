@@ -4,34 +4,34 @@
 ## [Python](/notebooks/everythingPython.ipynb)
 
 ### Data Types
-* [String](datatypes.ipynb)
-* [Integers](datatypes.ipynb)
-* [Floats](datatypes.ipynb)
-* [Complex Numberes](datatypes.ipynb)
+* [String](/notebooks/datatypes.ipynb)
+* [Integers](/notebooks/datatypes.ipynb)
+* [Floats](/notebooks/datatypes.ipynb)
+* [Complex Numberes](/notebooks/datatypes.ipynb)
 
-### [Operators](operatorTutorial.ipynb)
+### [Operators](/notebooks/operatorTutorial.ipynb)
 
 ### Built-in Data Structures
-* [Lists](ListsTutorial.ipynb)
-* [Set](setTutorial.ipynb)
-* [Tuples](tupleTutorial.ipynb)
-* [Dictionary](dictionaryTutorial.ipynb)
+* [Lists](/notebooks/ListsTutorial.ipynb)
+* [Set](/notebooks/setTutorial.ipynb)
+* [Tuples](/notebooks/tupleTutorial.ipynb)
+* [Dictionary](/notebooks/dictionaryTutorial.ipynb)
 
 ### Control Statements
-* [IF-ELIF-ELSE](controlstatement.ipynb)
-* [match statement](controlstatement.ipynb)
+* [IF-ELIF-ELSE](/notebooks/controlstatement.ipynb)
+* [match statement](/notebooks/controlstatement.ipynb)
 
 ### Loops
-* [for loops](forloop.ipynb)
-* [while loops](whileloop.ipynb)
+* [for loops](/notebooks/forloop.ipynb)
+* [while loops](/notebooks/whileloop.ipynb)
 
-### [Functions](functions.ipynb)
+### [Functions](/notebooks/functions.ipynb)
 
 ### Datetime module
 
 ### Object Oriented Programming
-* [OOPS basics](oops.ipynb)
-* [Inheritance and Polymorphism](inheritance.ipynb)
+* [OOPS basics](/notebooks/oops.ipynb)
+* [Inheritance and Polymorphism](/notebooks/inheritance.ipynb)
 
 
 
@@ -45,15 +45,15 @@
 * Function Annotations (type hinting)
 
 ## Numpy
-* [Numpy Basics](numpy.ipynb)
-* [Numpy Axes and Operations](complexnumpy.ipynb)
-* [numpy ufunc](ufunc.ipynb)
+* [Numpy Basics](/notebooks/numpy.ipynb)
+* [Numpy Axes and Operations](/notebooks/complexnumpy.ipynb)
+* [numpy ufunc](/notebooks/ufunc.ipynb)
 
-## [Matplotlib](matplotlib.ipynb)
+## [Matplotlib](/notebooks/matplotlib.ipynb)
 
-## [Pandas](pandas.ipynb)
+## [Pandas](/notebooks/pandas.ipynb)
 
-## [CSV Handling](csv_handling.ipynb)
+## [CSV Handling](/notebooks/csv_handling.ipynb)
 
 ## File Handling
 
